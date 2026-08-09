@@ -1,0 +1,10 @@
+{
+  "name": "escape-room-puzzle-checklist",
+  "version": "1.0.0",
+  "type": "module",
+  "private": true,
+  "scripts": {
+    "test": "node test/checklist-smoke-test.mjs"
+  },
+  "license": "MIT"
+}
